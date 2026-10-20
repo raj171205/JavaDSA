@@ -25,17 +25,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/raj171205/JavaDSA/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/raj171205/JavaDSA/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/raj171205/JavaDSA/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/raj171205/JavaDSA/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/raj171205/JavaDSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/raj171205/JavaDSA/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/raj171205/JavaDSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/raj171205/JavaDSA/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/raj171205/JavaDSA/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/raj171205/JavaDSA/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
