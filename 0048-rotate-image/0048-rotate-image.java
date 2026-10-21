@@ -17,10 +17,14 @@ class Solution {
 
         // reverse all row of matrix
         for(int i=0;i<m;i++){
-            for(int j=0;j<n/2;j++){
-                int temp = matrix[i][j];
-                matrix[i][j] = matrix[i][n-1-j];
-                matrix[i][n-1-j] = temp;
+            int startcolum = 0;
+            int endcolum = n-1;
+            while(startcolum <= endcolum){
+                int temp = matrix[i][startcolum];
+                matrix[i][startcolum] = matrix[i][endcolum];
+                matrix[i][endcolum] = temp;
+                startcolum++;
+                endcolum--;
             }
         }
      
