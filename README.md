@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/raj171205/JavaDSA/tree/master/2351-first-letter-to-appear-twice) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/raj171205/JavaDSA/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
