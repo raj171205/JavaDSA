@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/raj171205/JavaDSA/tree/master/0389-find-the-difference) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raj171205/JavaDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2351-first-letter-to-appear-twice](https://github.com/raj171205/JavaDSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raj171205/JavaDSA/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raj171205/JavaDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
