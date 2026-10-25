@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/raj171205/JavaDSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/raj171205/JavaDSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/raj171205/JavaDSA/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/raj171205/JavaDSA/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/raj171205/JavaDSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raj171205/JavaDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -13,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raj171205/JavaDSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/raj171205/JavaDSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/raj171205/JavaDSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raj171205/JavaDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/raj171205/JavaDSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/raj171205/JavaDSA/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
